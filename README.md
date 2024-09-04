@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbrahamOO
-- 👀 I’m interested in Cloud Security & Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in Cybersecurity & Data Science
+- 🌱 I’m currently learning for CKAD certification
+- 💞️ I’m looking to collaborate on Cybersecurity articles
 <!--- 📫 How to reach me mrparkernewyork@gmail.com
 
 <!---
