@@ -9,7 +9,7 @@ Building the security infrastructure that AI coding assistants, cloud platforms,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Website](https://img.shields.io/badge/abrahamojo.com-10b981?style=flat&logo=google-chrome&logoColor=white)](https://abrahamojo.com)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~abrahamoo)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:theimpressionzbox@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abraham.cyberdefender@gmail.com)
 
 </div>
 
